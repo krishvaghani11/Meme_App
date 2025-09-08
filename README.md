@@ -1,16 +1,36 @@
 # meme_app
 
-A new Flutter project.
+Meme App
 
-## Getting Started
+A fun and simple Flutter app that lets users view and enjoy memes directly from an API. This project demonstrates working with APIs, state management, and Flutter UI components.
 
-This project is a starting point for a Flutter application.
+🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+Fetches memes from an online API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Displays random memes in a clean UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pull-to-refresh for new memes
+
+Share memes with friends
+
+Lightweight and fast
+
+🛠️ Tech Stack
+
+Framework: Flutter
+
+Language: Dart
+
+Platform: Android / iOS
+
+Dependencies (from pubspec.yaml):
+
+http → for API requests
+
+share_plus → for sharing memes
+
+(and other Flutter essentials)
+<img width="388" height="839" alt="image" src="https://github.com/user-attachments/assets/4149051a-e31f-4ab3-972f-6278ac4f8bdb" />
+
+
